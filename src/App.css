@@ -1,0 +1,14 @@
+.App, .Task {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    font-size: 15px;
+    flex-direction: column;
+}
+.Task1 p{
+    background-color:dimgray;
+    width: 300px;
+    height: 45px;
+    line-break:normal;
+}
